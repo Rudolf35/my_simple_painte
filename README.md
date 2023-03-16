@@ -13,6 +13,6 @@ press w to draw a rectangle
 
 press e to draw a triangle
 
-### screenshot
+### Screenshot
 
 ![screenshot_painte](https://user-images.githubusercontent.com/71507364/225652292-0c574ac4-f77c-4831-92f5-0c52d9623609.JPG)
