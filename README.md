@@ -1,7 +1,7 @@
 # my_simple_painte
 My simple painter with OpenCV
 
-###:bulb: User manual
+### :bulb: User manual
 
 press tap to change brush color
 
